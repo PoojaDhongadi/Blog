@@ -5,7 +5,7 @@ A simple website to Create, Read, Update and Delete blogs.
 ### Frontend 
 EJS , Bootstrap
 ### Backend 
-Node JS , Express JS
+Express JS
 ### Database 
 Mongo DB
 
